@@ -69,8 +69,16 @@ I’m a self-oriented, hardworking individual always eager to learn new tools an
 
 ## 📫 Let’s Connect!
 
-- 📧 **Email:** dimuthupraboda14@gmail.com / egt22527@fot.sjp.ac.lk
+- 📧 **Email:** dimuthupraboda14@gmail.com  
 - 🔗 **LinkedIn:** [linkedin.com/in/dimuthu-praboda](https://www.linkedin.com/in/dimuthu-praboda)  
 - 🌐 **Location:** Sri Jayawardenepura Kotte, Sri Lanka  
 
 ---
+
+## 📊 GitHub Stats
+
+<details>
+  <summary>Click to expand</summary>
+
+  ```md
+  ![Dimuthu’s GitHub stats](https://github-readme-stats.vercel.app/api?username=dimuthu-praboda&show_icons=true&theme=radical)
